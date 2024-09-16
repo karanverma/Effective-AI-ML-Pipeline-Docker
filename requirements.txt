@@ -1,0 +1,8 @@
+flask==2.3.2
+fastapi==0.95.2
+scikit-learn==1.3.0
+pandas==2.0.3
+numpy==1.26.0
+surprise==0.2.0  # Optional, if using collaborative filtering
+psycopg2-binary==2.9.5
+mongoengine==0.24.0
